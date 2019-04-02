@@ -8,7 +8,7 @@
 vue2 + vuex + vue-router + webpack + ES6/7 + axios + elementUI + 阿里图标iconfont
 
 #### 项目预览
-[http://ldhblog.gitee.io/vueproject/#/login](http://ldhblog.gitee.io/vueproject/#/login)
+
 
 
 #### 说明
@@ -193,11 +193,6 @@ npm test
 
 ```
 
-#### 项目源码地址：
-------------------------
-
-码云地址：https://gitee.com/ldhblog/vue-element.git
-github地址：https://github.com/nmgwap/vue-ManagementPlatform.git
 
 
 
