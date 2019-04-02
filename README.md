@@ -8,7 +8,7 @@
 vue2 + vuex + vue-router + webpack + ES6/7 + axios + elementUI + 阿里图标iconfont
 
 #### 项目预览
-
+[https://safranyu.github.io/element-admin/](https://safranyu.github.io/element-admin/)
 
 
 #### 说明
